@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Tara Ghesheshlaghi</title>
+    <link>https://ghtara.github.io/Tara_Portfolio/publication/</link>
+      <atom:link href="https://ghtara.github.io/Tara_Portfolio/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ghtara.github.io/Tara_Portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://ghtara.github.io/Tara_Portfolio/publication/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://ghtara.github.io/Tara_Portfolio/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghtara.github.io/Tara_Portfolio/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghtara.github.io/Tara_Portfolio/publication/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghtara.github.io/Tara_Portfolio/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghtara.github.io/Tara_Portfolio/publication/preprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghtara.github.io/Tara_Portfolio/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

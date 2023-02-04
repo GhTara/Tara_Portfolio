@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Tara Ghesheshlaghi</title>
+    <link>https://ghtara.github.io/Tara_Portfolio/project/</link>
+      <atom:link href="https://ghtara.github.io/Tara_Portfolio/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghtara.github.io/Tara_Portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://ghtara.github.io/Tara_Portfolio/project/</link>
+    </image>
+    
+    <item>
+      <title>A Convolutional Fuzzy Neural Network Architecture for Object Classification with Small Training Database</title>
+      <link>https://ghtara.github.io/Tara_Portfolio/project/example/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ghtara.github.io/Tara_Portfolio/project/example/</guid>
+      <description>&lt;p&gt;I thoroughly enjoyed this project on neural networks as part of my coursework. It was a great opportunity to learn about the advantages of incorporating fuzzy rules into neural network models!
+&lt;br/&gt;
+&lt;br/&gt;
+This implementation is based on the FuzzyCNN article &lt;a href=&#34;#1&#34;&gt;[1]&lt;/a&gt;. The fuzzy neural network is ideal when working with small datasets or when the cost of labeling the data is high. One unique aspect of this model is that the neurons in the fuzzy section produce fuzzy values, rather than the crisp values found in Convolutional Neural Networks. The concept of the fuzzy component is illustrated in the following image: &lt;img title=&#34;Fuzzy concept&#34; alt=&#34;1&#34; src=&#34;fuzzy concept.png&#34;&gt;&lt;br&gt;
+To optimize computation, the inference stage of the fuzzy component is performed individually for each feature map. This approach not only increases parallelization but also speeds up the training process and reduces hardware costs. &lt;img title=&#34;&#34; alt=&#34;&#34; src=&#34;fuzzy feature map.png&#34;&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;&lt;a id=&#34;1&#34;&gt;[1]&lt;/a&gt;
+Min-Jie Hsu, Yi-Hsing Chien, Wei-Yen Wang &amp;amp; Chen-Chien Hsu (2020).
+A Convolutional Fuzzy Neural Network Architecture for Object Classification with Small Training Database.
+International Journal of Fuzzy Systems, 1-10.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
